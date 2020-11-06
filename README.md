@@ -21,5 +21,5 @@
 
 > 此脚本由海南大学机器人与人工智能协会成员共同维护
 
-- [Email](RmAlkaid@outlook.com) **||**[Home](https://a-rai.github.io/)
+- [Email](mailto:RmAlkaid@outlook.com?subject=CampusDailyAutoSign-ISSUE) **||**[Home](https://a-rai.github.io/)
 
