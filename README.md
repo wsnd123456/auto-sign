@@ -8,8 +8,9 @@
 
 ## :smirk: 使用说明
 
-1. 下载[register.exe](https://yao.qinse.top/subscribe/register.zip)信息验证向导（Windows用户可用）；
-2. 网页验证（开发中）。
+1. 下载[register信息验证向导](https://yao.qinse.top/subscribe/register.zip)（Windows用户可用）；
+2. 使用`quick_register.py`提交表单（推荐）；
+3. ~~网页验证（开发中）~~
 
 ## :world_map: 开发计划
 
